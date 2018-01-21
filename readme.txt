@@ -1,0 +1,1 @@
+This project resolve Scroogcoin project in Coursera course.
